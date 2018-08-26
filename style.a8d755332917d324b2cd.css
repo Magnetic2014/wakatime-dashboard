@@ -20884,6 +20884,27 @@ a.rs-uploader-picture-text .rs-uploader-trigger-btn.rs-btn-disabled {
 .simple-chart .ct-chart-pie .ct-series-d .ct-slice-pie {
   fill: #1464ac;
 }
+.login-page .rs-navbar-header {
+  padding: 4px 0;
+  font-size: 16px;
+  height: 56px;
+  white-space: nowrap;
+  overflow: hidden;
+  margin-left: -1px;
+}
+.login-page .rs-navbar-header img {
+  width: 180px;
+}
+.login-page .login-form {
+  background: #fff;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin-left: -150px;
+  margin-top: -120px;
+  padding: 25px;
+  border-radius: 5px;
+}
 body {
   background: #f7f7fa;
 }
