@@ -20788,6 +20788,9 @@ a.rs-uploader-picture-text .rs-uploader-trigger-btn.rs-btn-disabled {
   cursor: pointer;
   z-index: 1;
 }
+.header-avatar .origin-dashboard {
+  margin-right: 55px;
+}
 .header .rs-panel {
   background: #fff;
 }
